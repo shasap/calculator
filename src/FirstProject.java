@@ -15,6 +15,6 @@ public class FirstProject {
         subtraction(20,10);
 
         //testing
-        //done changes in locators 
+        //done changes in locators
     }
 }
